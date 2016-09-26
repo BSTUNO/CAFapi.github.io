@@ -5,9 +5,9 @@
     "services": [
         {
             "en-us": {
-                "title": "Data Processing!",
+                "title": "Data Processing1",
                 "content": "showcase/en-us/services/data_processing.md",
-                "color": "orange" 
+                "color": "purple" 
             }
         },
         {
